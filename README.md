@@ -1,3 +1,9 @@
+Merhaba Bu uygulamayı WebPage ve Kendi arayüz kodlarımla tasarlayarak 2 şekilde yaptım. Home Router yönlendirmesini değiştirerek ulaşabilirsiniz 2 seçeneğede. 
+
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
